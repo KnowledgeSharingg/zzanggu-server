@@ -1,0 +1,2 @@
+# zzanggu-server
+return isZzanggu
